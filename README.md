@@ -68,7 +68,12 @@ Push (git push origin feature/minha-feature)
 Abra um Pull Request
 ```
 
-📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE.
+---
 
-Desenvolvido por Hevellyn Karinne Ribeiro Castro, João Pedro Dourado do Nascimento, Julia Rocha Celestino 🎓
+## 👩‍💻 **Autores**
+
+* **Hevellyn Karinne Ribeiro Castro**
+* **João Pedro Dourado do Nascimento**
+* **Julia Rocha Celestino**
+
+---
